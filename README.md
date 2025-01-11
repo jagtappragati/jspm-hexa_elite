@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 2. Navigate to the project directory: `cd vehicle-Parking-management-system`
 3. Install dependencies: `composer install` (if using Composer)
 4. Set up your database: Create a MySQL database and import the provided SQL file.
-5. Start the Apache server and navigate to the project in your browser: `http://localhost/vehicle-management-system`
+5. Start the Apache server and navigate to the project in your browser: `http://localhost/vehicle-Parking-management-system`
 
     Features
 1.   User Authentication  
