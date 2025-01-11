@@ -32,15 +32,15 @@ These instructions will get you a copy of the project up and running on your loc
    - Display current availability of parking spaces.
    - Real-time updates to show occupied and free slots.
 
-6.   User Dashboard  
+4.   User Dashboard  
    - Overview of booked slots, usage history, and payment details.
    - Personalized for different user roles.
 
-7.   Parking History and Reports  
+5.   Parking History and Reports  
    - Track and record parking history for each user.
    - Generate detailed reports on parking usage, revenue, and more.
 
-8.   Notifications and Alerts  
+6.   Notifications and Alerts  
    - Alerts for Vehicle parking more than 10 hours .
 
     Objectives
